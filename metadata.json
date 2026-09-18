@@ -1,0 +1,6 @@
+{
+  "name": "Paarami Digital",
+  "description": "Digital growth partner combining branding, digital experiences, marketing, technology, and automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
